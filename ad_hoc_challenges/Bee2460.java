@@ -1,4 +1,4 @@
-package adHocChallenges;
+package ad_hoc_challenges;
 
 import java.util.LinkedList;
 import java.util.Queue;
