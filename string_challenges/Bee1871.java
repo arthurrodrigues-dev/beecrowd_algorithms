@@ -1,4 +1,4 @@
-package StringChallenges;
+package string_challenges;
 
 import java.util.Scanner;
 
